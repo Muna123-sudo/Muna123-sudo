@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muna123-sudo
 - 👀 I’m interested in learning coding and computer languages 
-- 🌱 I’m currently learning javascript on freecodecamp
+- 🌱 I’m currently learning javascript and python on freecodecamp
 - 💞️ I’m looking to collaborate on Github to learn more 
 - 📫 How to reach me russellmuna@yahoo.com
 - 😄 Pronouns: ...
